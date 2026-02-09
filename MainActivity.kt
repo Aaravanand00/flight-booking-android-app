@@ -587,7 +587,7 @@ fun ProfileScreen() {
         )
         Spacer(modifier = Modifier.height(16.dp))
         Text(
-            "Welcome, Shri Harivansh!",
+            "Welcome, Aarav Anand!",
             fontSize = 24.sp,
             fontWeight = FontWeight.Bold,
             color = Color.White
