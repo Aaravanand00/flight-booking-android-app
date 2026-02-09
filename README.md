@@ -12,9 +12,9 @@ Here are some glimpses of the application's user interface:
 |:---:|:---:|:---:|
 | ![Search Screen](screenshots/1_search.png) | ![Flight Results](screenshots/2_results.png) | ![Booking Details](screenshots/3_flights.png) |
 
-| My Bookings | User Profile |
-|:---:|:---:|
-| ![My Bookings](screenshots/4_bookings.png) | ![Profile](screenshots/5_profile.png) |
+| My Bookings | 
+|:---:|
+| ![My Bookings](screenshots/4_bookings.png) | 
 
 ## 🚀 Features
 
